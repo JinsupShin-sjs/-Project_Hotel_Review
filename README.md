@@ -1,8 +1,8 @@
 # -Project_Hotel_Review_Solo
-2nd Project
+## 2nd Project
 
 
-## 프로젝트 계획
+## <프로젝트 계획>
 
 ### 프로젝트 주제	 호텔 이용 후기 데이터를 활용한 평점 예측 프로젝트
 
