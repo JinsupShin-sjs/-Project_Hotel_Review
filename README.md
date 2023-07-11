@@ -1,5 +1,4 @@
-# -Project_Hotel_Review_Solo
- ## 2nd Project
+# -Project_Hotel_Review_Solo (2nd Project)
 
 
 ## <프로젝트 계획>
